@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SendRecBroadcastPriority</string>
+    <string name="SB">Send Broadcast with Priority</string>
+    <string name="SRB">Demo on Receiving Broadcast with Priority</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+</resources>
